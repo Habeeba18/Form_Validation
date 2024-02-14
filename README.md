@@ -1,5 +1,6 @@
-[Demo](https://habeeba18.github.io/Form_Validation/)
-Form Validation Using JavaScript
+[Live Demo](https://habeeba18.github.io/Form_Validation/)
+Form Validation Using JavaScript :
+
 This project demonstrates how to implement form validation using JavaScript. The goal is to create a contact form with validation for name, email, phone number, and message fields.
 
 Project Overview:
